@@ -1,0 +1,89 @@
+body{
+    background-image: url(../images/fondo2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table {
+    border-collapse: collapse;
+    border: 5px solid white;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: black;
+    
+
+  }
+  td {
+    border: 1px solid white;
+     
+  
+  
+  }
+
+  #ficha1{
+    background-color: red ;
+    border: 5px solid;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+  }
+  #ficha2{
+    background-color: rgb(25, 0, 255) ;
+    border: 5px solid;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+  }
+  .img1{
+    position: absolute;
+    top: 25%;
+    left: 60%;
+    z-index: 1px;
+    width: 80px;
+    height: 300px ;
+  }
+
+  .img2{
+    position: absolute;
+    top: 80%;
+    left: 72%;
+    z-index: 1px;
+    width: 60px;
+    height: 320px ;
+  }
+  .img3{
+     position: absolute;
+    top: 25%;
+    left: 38%;
+    z-index: 1px;
+    width: 269px;
+    height: 200px ;
+  }
+  .img4{
+    position: absolute;
+    top: 25%;
+    left: 80%;
+    z-index: 1px;
+    width: 80px;
+    height: 200px ;
+
+  }
+  .img5{
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    z-index: 1px;
+    width: 80px;
+    height: 300px ;
+
+  }
+  .img6{
+    position: absolute;
+    top: 58%;
+    left: 38%;
+    z-index: 1px;
+    width: 100px;
+    height: 400px ;
+
+  }

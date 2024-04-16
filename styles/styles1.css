@@ -1,0 +1,12 @@
+body{
+    background-image: url(../images/fondologi.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+    background-color: black;
+    border: 5px solid black ;
+    border-radius: 50px;
+    color: white;
+}
